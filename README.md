@@ -1,5 +1,6 @@
 # ender3-corexy
-Ender 3 (Pro, V2) CoreXY conversion using MGN9H Linear Rails
+
+# Ender 3 (Pro, V2) CoreXY conversion using MGN9H Linear Rails
 
 Re-uses the base of the frame and optionally upright 2040s:
 
