@@ -2,6 +2,9 @@
 
 # Ender 3 (Pro, V2) CoreXY conversion using MGN9H Linear Rails
 
+This design is licensed under CC-BY-NC-SA 4.0 (see LICENSE.TXT).
+
+
 Re-uses the base of the frame and optionally upright 2040s:
 
 ![Ender 3 CoreXY with](https://github.com/thingsapart/ender3-corexy/blob/main/images/Ender%203%20CoreXY%20Base.jpg?raw=true)
