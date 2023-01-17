@@ -9,4 +9,4 @@ Re-uses the base of the frame and optionally upright 2040s:
 
 Currently support Voron V0-style Toolheads like Mini-Afterburner, Mini-Stealthburnder, Mini-AfterSherpa, V0VO, DragonBurner and Mailbox.
 
-![Ender 3 CoreXY with toolhead](https://github.com/thingsapart/ender3-corexy/blob/main/images/Ender%20CoreXY%20Voron%20Toolhead.jpgraw=true)
+![Ender 3 CoreXY with toolhead](https://github.com/thingsapart/ender3-corexy/blob/main/images/Ender%20CoreXY%20Voron%20Toolhead.jpg?raw=true)
