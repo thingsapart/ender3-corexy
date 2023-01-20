@@ -4,6 +4,9 @@
 
 This design is licensed under CC-BY-NC-SA 4.0 (see LICENSE.TXT).
 
+The GitHub repo current lags the Onshape until I update, but the design is openly available on Onshape:
+
+![https://cad.onshape.com/documents/7dfd800c94b330690f19f3b3/w/606c674af3b9bda8b15e0a0f/e/0d280d52ccda5ae23c93c658](https://cad.onshape.com/documents/7dfd800c94b330690f19f3b3/w/606c674af3b9bda8b15e0a0f/e/0d280d52ccda5ae23c93c658)
 
 Re-uses the base of the frame and optionally upright 2040s:
 
