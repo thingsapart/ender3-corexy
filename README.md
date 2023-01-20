@@ -13,13 +13,13 @@ The GitHub repo currently lags the Onshape model until I push an update every so
 The goal is an 80-20/bang-for-buck type conversion, ideally putting the money where it hopefully matters most. I've seen some other conversions using linear motion rods outside the frame but I prefer linear rails and within the frame, even though those mods re-use more parts of the original Ender.
 
 Some of the goals:
-- Solid, hopefully reliable mid-range, mid-speed machine - have it printing well at around 80-100mm/s not really super fast.
+- Solid, hopefully reliable mid-range, mid-speed machine - have it printing very well at around 100mm/s,
 - MGN9H linear rails on X and Y and a mix of MGN9H linear and zruncho-style printed rails for Z,
-- designing it around a kinematic triple-Z with klicky-style probing as that's my preferred setup right now but other Z designs should be mostly drop-in,
-- keep the parts simple-ish, easy-ish to print and keep parts and BOM count down if possible,
+- designed around a kinematic triple-Z with klicky-style probing as that's my preferred setup right now but other Z designs should be mostly drop-in,
+- keep the printed parts simple-ish, easy-ish to print and keep parts and BOM count down if possible,
 - wanted to try some risky design-decision and see if they work out, like floating rails (🫢), zruncho-style Z.
 
-A rough estimate of the conversion using Amazon-US prices puts it around $350 + price of Ender 3 ($89-109 "returns" at Comgrow for example).
+A rough estimate of the conversion using Amazon-US prices for everything I could think of (including 8-driver board capable of running Klipper, TD6S hotend, BMG gears, ...) puts it around $350 + price of Ender 3 (~$89-109 for a "returns/used/parts" printer at Comgrow for example), can be lowered by compromising on certain things.
 
 ## Ender 3 Parts currently re-used
 
