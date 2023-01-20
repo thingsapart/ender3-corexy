@@ -23,7 +23,7 @@ A rough estimate of the conversion using Amazon-US prices for everything I could
 
 ## Ender 3 Parts currently re-used
 
-Re-uses the base of the frame as a super rigid foundation and the upright 2040s, power supply, motors, lead screw would need to be cut:
+Re-uses the base of the frame as a super rigid foundation and the upright 2040s, power supply, motors, heated bed and print surface, LCD (not V2 with Klipper), some of the fans, hopefully wiring harness but tbd. Currently not used: lead screw would need to be cut, mainboard could only be used with a single-motor-Z setup.
 
 ![Ender 3 CoreXY with](https://github.com/thingsapart/ender3-corexy/blob/main/images/Ender%203%20CoreXY%20Base.jpg?raw=true)
 
